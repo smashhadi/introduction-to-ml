@@ -1,10 +1,7 @@
 """
-Assignment to compare Linear units, GRU and LSTMs performance 
-Following similar structure to "Classifying Names with a Character-Level RNN" tutorial on PyTorch
-
-Compare the accuracy of the encoder when varying the type of hidden units: linear units, gated recurrent
-units (GRUs) and long short term memory (LSTM) units. For linear hidden units, just run the script of the
-tutorial as it is. For GRUs and LSTMs, modify the code of the tutorial.
+PyTorch based assignment.
+Compare Linear units, GRU and LSTMs performance
+Following "Classifying Names with a Character-Level RNN" tutorial on PyTorch
 """
 
 from __future__ import unicode_literals, print_function, division
